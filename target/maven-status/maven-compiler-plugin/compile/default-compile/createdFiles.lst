@@ -1,7 +1,0 @@
-br/com/truesystem/mockapi/JsonTransformer.class
-br/com/truesystem/mockapi/CrosFilter.class
-br/com/truesystem/mockapi/LoginRest.class
-br/com/truesystem/mockapi/LoginRequest.class
-br/com/truesystem/mockapi/SecurityConfig.class
-br/com/truesystem/mockapi/Main.class
-br/com/truesystem/mockapi/LoginResponse.class
